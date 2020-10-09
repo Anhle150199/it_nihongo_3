@@ -4,4 +4,4 @@ puts "xxxxxxxxxxxxxxxxxxxxxxx"
 #   end
 # end
 # Culit
-puts "git version 2"
+puts "git ver_2"
